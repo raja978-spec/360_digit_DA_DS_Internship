@@ -1,0 +1,1 @@
+Refer google scholar or any other research paper on the business problem of machine downtime prediction url,variables used to solve the problem
